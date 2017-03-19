@@ -1,0 +1,27 @@
+C:\Users\dm1024\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.exe.config
+C:\Users\dm1024\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.exe
+C:\Users\dm1024\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.pdb
+C:\Users\dm1024\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.Form1.resources
+C:\Users\dm1024\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.Properties.Resources.resources
+C:\Users\dm1024\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.csproj.GenerateResource.Cache
+C:\Users\dm1024\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.exe
+C:\Users\dm1024\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.pdb
+C:\Users\dm1024\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.csprojResolveAssemblyReference.cache
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.exe.config
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.exe
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.pdb
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.exe
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.pdb
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.csprojResolveAssemblyReference.cache
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.Form1.resources
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.Properties.Resources.resources
+Z:\文稿\磁盘备份\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.exe.config
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.exe
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.pdb
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.exe
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\bin\Debug\tcpclie.pdb
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.Form1.resources
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.Properties.Resources.resources
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpclie\tcpclie\obj\Debug\tcpclie.csproj.GenerateResource.Cache

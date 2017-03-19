@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpclie", "tcpclie\tcpclie.csproj", "{A8362E89-BE68-44D1-ABF3-86001B028BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8362E89-BE68-44D1-ABF3-86001B028BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8362E89-BE68-44D1-ABF3-86001B028BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8362E89-BE68-44D1-ABF3-86001B028BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8362E89-BE68-44D1-ABF3-86001B028BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

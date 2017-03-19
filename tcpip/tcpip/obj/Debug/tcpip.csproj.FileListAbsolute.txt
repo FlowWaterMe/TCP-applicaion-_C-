@@ -1,0 +1,25 @@
+C:\Users\dm1024\Documents\tcpip\tcpip\bin\Debug\tcpip.exe.config
+C:\Users\dm1024\Documents\tcpip\tcpip\bin\Debug\tcpip.exe
+C:\Users\dm1024\Documents\tcpip\tcpip\bin\Debug\tcpip.pdb
+C:\Users\dm1024\Documents\tcpip\tcpip\obj\Debug\tcpip.form1.resources
+C:\Users\dm1024\Documents\tcpip\tcpip\obj\Debug\tcpip.Properties.Resources.resources
+C:\Users\dm1024\Documents\tcpip\tcpip\obj\Debug\tcpip.csproj.GenerateResource.Cache
+C:\Users\dm1024\Documents\tcpip\tcpip\obj\Debug\tcpip.exe
+C:\Users\dm1024\Documents\tcpip\tcpip\obj\Debug\tcpip.pdb
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\bin\Debug\tcpip.exe.config
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\obj\Debug\tcpip.exe
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\obj\Debug\tcpip.pdb
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\bin\Debug\tcpip.exe
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\bin\Debug\tcpip.pdb
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\obj\Debug\tcpip.form1.resources
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\obj\Debug\tcpip.Properties.Resources.resources
+Z:\文稿\磁盘备份\Documents\tcpip\tcpip\obj\Debug\tcpip.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\bin\Debug\tcpip.exe.config
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\obj\Debug\tcpip.exe
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\obj\Debug\tcpip.pdb
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\bin\Debug\tcpip.exe
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\bin\Debug\tcpip.pdb
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\obj\Debug\tcpip.form1.resources
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\obj\Debug\tcpip.Properties.Resources.resources
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\obj\Debug\tcpip.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\文稿\beifennnnnnnnnnnnnnnnnnnn\Documents\tcpip\tcpip\obj\Debug\tcpip.csprojResolveAssemblyReference.cache
